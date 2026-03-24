@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="sword" size="1.000000 1.000000" />
+    <ImageTarget name="bucket" size="1.000000 1.000000" />
+    <ImageTarget name="vase" size="1.000000 1.000000" />
+    <ImageTarget name="book" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
